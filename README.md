@@ -21,4 +21,4 @@ Programming Language: Java
 
 Database: MySQL
 
-IDE/Tools: IntelliJ IDEA / Eclipse, MySQL Workbench
+IDE/Tools: IntelliJ IDEA , MySQL Workbench
